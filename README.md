@@ -1,1 +1,1 @@
-https://Egor-bog.github.io/shelder/pages/main/index.html
+https://Egor-bog.github.io/shelder/shelder/pages/main
