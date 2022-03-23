@@ -1,6 +1,6 @@
 # https://Egor-bog.github.io/portfolio/shelder/pages/main
 
-# https://mariolli.ru/
+# https://mariolli.by/
 
 # https://demo-lending.netlify.app/
 
